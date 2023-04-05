@@ -76,16 +76,18 @@ URL: DELETE /api/policies/{id} (Replace {id} with the ID of the policy you want 
 
 
  
- Testing ScreenShot..
+ Testing ScreenShot..![Screenshot 2023-04-05 at 12 37 57 PM](https://user-images.githubusercontent.com/67068290/230007274-d9d704d7-90fe-4008-a6c7-be0fc32e2757.png)
+![Screenshot 2023-04-05 at 12 37 50 PM](https://user-images.githubusercontent.com/67068290/230007297-61e3572f-3d1e-4458-be3f-07c705b1f3c1.png)
+
+ 
+ ![Screenshot 2023-04-05 at 12 37 33 PM](https://user-images.githubusercontent.com/67068290/230007310-fa3aa4b7-f5a3-4c23-903d-95faebcb3917.png)
+
+ 
  
  
  
 
 
-![Uploading Screenshot 2023-04-05![Screenshot 2023-04-05 at 12 37 50 PM](https://user-images.githubusercontent.com/67068290/230007021-0400f39a-c5a9-4c6a-ad2a-525ce675ec5f.png)
-![Screenshot 2023-04-05 at 12 37 33 PM](https://user-images.githubusercontent.com/67068290/230007029-f9402db7-1777-4595-bb3c-e969ba761011.png)
- at 12.37.57 PM.png…]()
-![Screenshot 2023-04-05 at 12 39 35 PM](https://user-images.githubusercontent.com/67068290/230007073-8c11980c-76e7-4f4b-91c0-60e3e6095a7f.png)
 
 Db Schema: 
  
