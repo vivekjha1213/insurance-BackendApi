@@ -91,7 +91,8 @@ URL: DELETE /api/policies/{id} (Replace {id} with the ID of the policy you want 
 
 Db Schema: 
  
- ![Uploading Screenshot 2023-04-05 at 12.39.35 PM.png…]()
+
+![Screenshot 2023-04-05 at 12 39 35 PM](https://user-images.githubusercontent.com/67068290/230007431-3ee8f658-9075-48af-96a3-b2775e3ee533.png)
 
  
  
